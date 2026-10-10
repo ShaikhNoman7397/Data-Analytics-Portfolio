@@ -4,7 +4,8 @@ An end-to-end Excel project: cleaning a messy, multi-currency HR dataset and tes
 
 **Business question:** *Are employees paid fairly, and which factors are associated with differences in pay?*
 
-![Dashboard Overview](images/Dashboard_Overview.png)
+C:\Users\Admin\Data_Analytics_Portfolio\01_Foundations\Excel\02_Excel_Pay_Equaity_Analysis\Excel_Pay_Equity_Anlysis_Dashboard.png
+
 
 ---
 
