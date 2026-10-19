@@ -1,5 +1,4 @@
 # Ecommerce Performance Analysis
-
 ## Overview
 This project contains an interactive Ecommerce Performance Analysis Dashboard created in Microsoft Excel to analyze sales performance, profit, orders, and key business metrics.
 
