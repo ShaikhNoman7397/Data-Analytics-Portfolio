@@ -2,7 +2,7 @@
 
 🔰 **My first Power BI project** — an end-to-end journey from raw data to a fully interactive sales performance dashboard, built while learning Power Query, data modeling, DAX, and dashboard design.
 
-![Dashboard Preview](01_powerbi_mini_project/sales-analysis-performance-dashboard.png)
+![Dashboard Preview](Dashboard_Screenshot/Sales_Analysis_Performance_Dashboard.png)
 
 ---
 
@@ -119,13 +119,13 @@ Built dedicated **Report Page Tooltips** that appear on hover, showing deeper co
 
 ## 📈 Dashboard Preview
 
-![Main Dashboard](sales-analysis-performance-dasboard.png)
+![Main Dashboard](Dashboard_Screenshot/Sales_Analysis_Performance_Dashboard.png)
 
 ### Custom Tooltips
 
 | Category Tooltip | State Tooltip | Month Tooltip |
 |---|---|---|
-| ![Category Tooltip](category-tooltip.png) | ![State Tooltip](state-tooltip.png) | ![Month Tooltip](month-tooltip.png) |
+| ![Category Tooltip](Dashboard_Screenshot/Category_Tooltip.png) | ![State Tooltip](Dashboard_Screenshot/State_Tooltip.png) | ![Month Tooltip](Dasboard_Screenshot/Month_Tooltip.png) |
 
 ---
 
