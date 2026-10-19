@@ -8,8 +8,7 @@
 An end-to-end analytics project on a deliberately messy, multi-currency HR dataset: clean it, then test for pay differences by gender, ethnicity, department, experience, education and performance. The same analysis was built twice, first in **Excel** and then in **Python (pandas)**, and the two versions were cross-checked against each other.
 
 **Business question:** *Are employees paid fairly, and which factors are associated with differences in pay?*
-
- [Excel Dashboard](https://github.com/ShaikhNoman7397/Data-Analytics-Portfolio/blob/main/01_Foundations/Python/02_Project_Employees_Pay_Equity_Analysis/images/Dashboard_Overview.png)
+ ![Pay_Equity_Dashboard](Screenshots/Pay_Equity_Dashboard.png)
 
 ---
 
@@ -31,15 +30,15 @@ An end-to-end analytics project on a deliberately messy, multi-currency HR datas
 
 ## 📈 Visuals
 
-![Gender pay gap by department](Screenshots/Gender_pay_gap.png)
+![Gender pay gap by department](Screenshots/Gender_Pay_Gap_By_Department.png)
 
-![Average vs median salary by department](Screenshots/Average_vs_median_salary.png)
+![Average vs median salary by department](Screenshots/Average_VS_Mean_Salary_By_Department.png)
 
 ![Experience vs salary](Screenshots/salary_vs_exp_relation.png)
 
-![Correlation heatmap](Screenshots/Correlation_heatmap.png)
+![Correlation heatmap](Screenshots/Heatmap_correlations.png)
 
-![Salary distribution](Screenshots/Salary_distribution_histogram.png)
+![Salary distribution](Screenshots/Salary_Distribution.png)
 
 ![Business insights (Excel)](Screenshots/Business_Insights.png)
 
