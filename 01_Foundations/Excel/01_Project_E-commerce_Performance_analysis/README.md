@@ -1,5 +1,5 @@
 # Ecommerce Performance Analysis
-![Dasboard_image](01_Project_E-commerce_Performance_analysis/Dashboard_Screenshot.jpg)
+
 
 
 ## Overview
