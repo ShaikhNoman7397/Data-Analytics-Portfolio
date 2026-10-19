@@ -38,7 +38,7 @@ This project demonstrates Python fundamentals such as dictionaries, functions, l
 
 ![Employee sales Analytics system with search](Employee_sales analytics_system.jpeg)
 
-![Menu analytics](Menu_analytics_system.jpeg)
+![Menu analytics](screenshot/Menu_analytics_system.jpeg)
 
 ## ▶️ Run the Project
 
