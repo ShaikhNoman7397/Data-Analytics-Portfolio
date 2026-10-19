@@ -3,7 +3,7 @@
 An end-to-end Excel project: cleaning a messy, multi-currency HR dataset and testing for pay differences by gender, ethnicity, department, experience, education and performance.
 
 **Business question:** *Are employees paid fairly, and which factors are associated with differences in pay?*
-![Dashboard_image](02_Excel_Pay_Equaity_Analysis/Excel_Pay_Equity_Anlysis_Dashboard.png)
+![Dashboard_image](Excel_Pay_Equity_Anlysis_Dashboard.png)
 
 
 ---
