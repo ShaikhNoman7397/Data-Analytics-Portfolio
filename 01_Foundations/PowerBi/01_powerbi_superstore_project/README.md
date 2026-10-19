@@ -125,7 +125,7 @@ Built dedicated **Report Page Tooltips** that appear on hover, showing deeper co
 
 | Category Tooltip | State Tooltip | Month Tooltip |
 |---|---|---|
-| ![Category Tooltip](Dashboard_Screenshot/Category_Tooltip.png) | ![State Tooltip](Dashboard_Screenshot/State_Tooltip.png) | ![Month Tooltip](Dasboard_Screenshot/Month_Tooltip.png) |
+| ![Category Tooltip](Dashboard_Screenshot/Category_Tooltip.png) | ![State Tooltip](Dashboard_Screenshot/State_Tooltip.png) | ![Month Tooltip](Dashboard_Screenshot/Month_Tooltip.png) |
 
 ---
 
