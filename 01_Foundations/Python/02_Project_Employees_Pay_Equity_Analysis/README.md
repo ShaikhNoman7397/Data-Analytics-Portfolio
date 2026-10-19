@@ -34,7 +34,7 @@ An end-to-end analytics project on a deliberately messy, multi-currency HR datas
 
 ![Average vs median salary by department](Screenshots/Average_VS_Mean_Salary_By_Department.png)
 
-![Experience vs salary](Screenshots/Relationship_Salary_&_Experience_Scatter.png)
+![Experience vs salary](Screenshots/Relationhip_Salary_&_Experience_Scatter.png)
 
 ![Correlation heatmap](Screenshots/Heatmap_correlations.png)
 
