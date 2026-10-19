@@ -132,5 +132,6 @@ An end-to-end analytics project on a deliberately messy, multi-currency HR datas
 
 ---
 
-**Author:** Arbaz · Data Analyst in training · Excel, Python, Power BI
-**GitHub:** [arbaz-analytics](https://github.com/arbaz-analytics) · **LinkedIn:** add link
+**Author:** Shaikh Noman  · Data Analyst in training · Excel, Python, Power BI
+**GitHub:** https://github.com/ShaikhNoman7397/Data-Analytics-Portfolio
+**LinkedIn:** https://www.linkedin.com/in/shaikhnoman7397/
